@@ -1,5 +1,15 @@
 langchain
+langchain-core
+langchain-text-splitters
+langchain-huggingface
+langchain-chroma
 langchain-community
+langgraph
 chromadb
 streamlit
+pandas
 python-dotenv
+anthropic
+pypdf
+pydantic
+sentence-transformers

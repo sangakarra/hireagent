@@ -2,6 +2,9 @@
 .env
 *.env
 
+# Virtual environment
+.venv/
+
 # Python
 __pycache__/
 *.py[cod]
@@ -34,7 +37,8 @@ htmlcov/
 .DS_Store
 Thumbs.db
 
-# ChromaDB
+# ChromaDB / vector store data
+data/chroma_db/
 chroma_db/
 *.db
 

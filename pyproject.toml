@@ -1,0 +1,47 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hireagent"
+version = "0.1.0"
+description = "AI-powered hiring assistant using LangGraph multi-agent architecture and RAG"
+requires-python = ">=3.10"
+dependencies = [
+    "langchain",
+    "langchain-core",
+    "langchain-text-splitters",
+    "langchain-huggingface",
+    "langchain-chroma",
+    "langchain-community",
+    "langgraph",
+    "chromadb",
+    "streamlit",
+    "pandas",
+    "python-dotenv",
+    "anthropic",
+    "pypdf",
+    "pydantic",
+    "sentence-transformers",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+    "pytest-cov",
+    "ruff",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "I"]
+ignore = ["E501"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

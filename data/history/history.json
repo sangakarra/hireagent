@@ -1,0 +1,1259 @@
+[
+  {
+    "id": "2026-05-02T00:37:28.432530",
+    "date": "2026-05-02 00:37",
+    "company": "Unknown",
+    "title": "AI Engineer",
+    "score": 5.5,
+    "analysis": {
+      "job_text": "AI Engineer - Series B Startup (Remote)\n\nAbout: We're building an AI-powered legal document review platform.\n\nRequirements:\n- 5+ years of software engineering experience\n- Strong Python skills, particularly with FastAPI or Flask\n- Experience building RAG pipelines with LangChain or LlamaIndex\n- Vector databases (Pinecone, Weaviate, or ChromaDB)\n- LLM API integration (OpenAI, Anthropic, or Cohere)\n- SQL and data modeling for structured + unstructured data\n- Docker for containerized deployments\n- Must have: strong system design skills\n\nNice to have:\n- Experience with LangGraph or multi-agent systems.\n- Kubernetes / cloud deployment (AWS/GCP)\n- Frontend experience (React/TypeScript)\n- Prior experience in legal tech or document processing",
+      "requirements": {
+        "title": "AI Engineer",
+        "company": "Unknown",
+        "must_have_skills": [
+          "Python",
+          "FastAPI or Flask",
+          "RAG pipelines (LangChain or LlamaIndex)",
+          "Vector databases (Pinecone, Weaviate, or ChromaDB)",
+          "LLM API integration (OpenAI, Anthropic, or Cohere)",
+          "SQL and data modeling",
+          "Docker",
+          "System design"
+        ],
+        "nice_to_have_skills": [
+          "LangGraph",
+          "Multi-agent systems",
+          "Kubernetes",
+          "AWS",
+          "GCP",
+          "React",
+          "TypeScript",
+          "Legal tech",
+          "Document processing"
+        ],
+        "years_experience": 5,
+        "responsibilities": [
+          "Build and maintain an AI-powered legal document review platform",
+          "Develop and manage RAG pipelines",
+          "Integrate LLM APIs into the platform",
+          "Design and implement containerized deployments using Docker",
+          "Handle SQL and data modeling for structured and unstructured data"
+        ]
+      },
+      "match_score": 5.5,
+      "matched_skills": [
+        "Python",
+        "FastAPI or Flask",
+        "LLM API integration (OpenAI, Anthropic, or Cohere)",
+        "SQL and data modeling",
+        "Docker",
+        "System design"
+      ],
+      "gaps": [
+        {
+          "skill": "RAG pipelines (LangChain or LlamaIndex)",
+          "severity": "critical",
+          "suggestion": "Build a end-to-end RAG application using LangChain or LlamaIndex \u2014 for example, a document Q&A chatbot \u2014 and publish it on GitHub; the official LangChain documentation and DeepLearning.AI's 'LangChain: Chat with Your Data' short course are excellent starting points."
+        },
+        {
+          "skill": "Vector databases (Pinecone, Weaviate, or ChromaDB)",
+          "severity": "critical",
+          "suggestion": "Sign up for a free tier on Pinecone (pinecone.io) and complete their quickstart tutorial, then integrate it into a small project that indexes and semantically searches a dataset of your choice to gain hands-on experience."
+        },
+        {
+          "skill": "LangGraph",
+          "severity": "nice-to-have",
+          "suggestion": "Work through the official LangGraph documentation and build a stateful, multi-step agent workflow (e.g., a research assistant with memory and branching logic); LangChain's LangGraph tutorials on their blog provide guided, practical examples."
+        },
+        {
+          "skill": "Multi-agent systems",
+          "severity": "nice-to-have",
+          "suggestion": "Take DeepLearning.AI's 'AI Agents in LangGraph' or 'Multi AI Agent Systems with crewAI' short course to understand agent orchestration patterns, then implement a two-agent system (e.g., a planner + executor) as a portfolio project."
+        },
+        {
+          "skill": "Kubernetes",
+          "severity": "nice-to-have",
+          "suggestion": "Pursue the Certified Kubernetes Application Developer (CKAD) certification by studying with Mumshad Mannambeth's course on Udemy, and practice hands-on in a local cluster using Minikube or Kind to solidify your skills."
+        },
+        {
+          "skill": "AWS",
+          "severity": "nice-to-have",
+          "suggestion": "Earn the AWS Certified Machine Learning \u2013 Specialty or AWS Certified Developer \u2013 Associate certification; use AWS's free tier to deploy a simple ML model via SageMaker or Lambda to build practical cloud deployment experience."
+        },
+        {
+          "skill": "GCP",
+          "severity": "nice-to-have",
+          "suggestion": "Complete the 'Professional Machine Learning Engineer' certification on Google Cloud, and practice by deploying a model using Vertex AI, which is GCP's primary managed ML platform and highly relevant for AI Engineer roles."
+        },
+        {
+          "skill": "React",
+          "severity": "nice-to-have",
+          "suggestion": "Build a small interactive front-end for one of your AI projects (e.g., a chat UI for your RAG app) using React; freeCodeCamp's React curriculum or Scrimba's free React course are beginner-friendly ways to get started quickly."
+        },
+        {
+          "skill": "TypeScript",
+          "severity": "nice-to-have",
+          "suggestion": "Add TypeScript to your React project by following the official TypeScript handbook and the 'React + TypeScript' guide on the React docs site \u2014 converting an existing JavaScript project to TypeScript is one of the fastest ways to build proficiency."
+        },
+        {
+          "skill": "Legal tech",
+          "severity": "nice-to-have",
+          "suggestion": "Familiarize yourself with the legal tech domain by exploring open legal datasets (e.g., CourtListener, EDGAR filings) and building a domain-specific NLP project such as contract clause extraction or legal document summarization to demonstrate applied knowledge."
+        },
+        {
+          "skill": "Document processing",
+          "severity": "nice-to-have",
+          "suggestion": "Gain hands-on document processing experience by building a pipeline that ingests PDFs and Word documents, extracts structured data using libraries like PyMuPDF or Apache Tika, and feeds the output into your RAG system as a cohesive portfolio project."
+        }
+      ],
+      "cover_letter": "",
+      "error": null
+    }
+  },
+  {
+    "id": "2026-05-02T00:36:52.838059",
+    "date": "2026-05-02 00:36",
+    "company": "Unknown",
+    "title": "AI Engineer",
+    "score": 5.5,
+    "analysis": {
+      "job_text": "AI Engineer - Series B Startup (Remote)\n\nAbout: We're building an AI-powered legal document review platform.\n\nRequirements:\n- 5+ years of software engineering experience\n- Strong Python skills, particularly with FastAPI or Flask\n- Experience building RAG pipelines with LangChain or LlamaIndex\n- Vector databases (Pinecone, Weaviate, or ChromaDB)\n- LLM API integration (OpenAI, Anthropic, or Cohere)\n- SQL and data modeling for structured + unstructured data\n- Docker for containerized deployments\n- Must have: strong system design skills\n\nNice to have:\n- Experience with LangGraph or multi-agent systems\n- Kubernetes / cloud deployment (AWS/GCP)\n- Frontend experience (React/TypeScript)\n- Prior experience in legal tech or document processing",
+      "requirements": {
+        "title": "AI Engineer",
+        "company": "Unknown",
+        "must_have_skills": [
+          "Python (FastAPI or Flask)",
+          "RAG pipelines (LangChain or LlamaIndex)",
+          "Vector databases (Pinecone, Weaviate, or ChromaDB)",
+          "LLM API integration (OpenAI, Anthropic, or Cohere)",
+          "SQL and data modeling",
+          "Docker",
+          "System design"
+        ],
+        "nice_to_have_skills": [
+          "LangGraph",
+          "Multi-agent systems",
+          "Kubernetes",
+          "Cloud deployment (AWS/GCP)",
+          "React",
+          "TypeScript",
+          "Legal tech experience",
+          "Document processing experience"
+        ],
+        "years_experience": 5,
+        "responsibilities": [
+          "Build and maintain an AI-powered legal document review platform",
+          "Develop and manage RAG pipelines",
+          "Integrate LLM APIs into the platform",
+          "Design and implement containerized deployments using Docker",
+          "Handle SQL and data modeling for structured and unstructured data",
+          "Contribute to system design decisions"
+        ]
+      },
+      "match_score": 5.5,
+      "matched_skills": [
+        "Python (FastAPI or Flask)",
+        "SQL and data modeling",
+        "Docker",
+        "LLM API integration (OpenAI, Anthropic, or Cohere)"
+      ],
+      "gaps": [
+        {
+          "skill": "RAG pipelines (LangChain or LlamaIndex)",
+          "severity": "critical",
+          "suggestion": "Build an end-to-end RAG application using LangChain or LlamaIndex \u2014 for example, a document Q&A chatbot \u2014 and follow the official LangChain documentation and DeepLearning.AI's 'LangChain: Chat with Your Data' short course to guide your learning."
+        },
+        {
+          "skill": "Vector databases (Pinecone, Weaviate, or ChromaDB)",
+          "severity": "critical",
+          "suggestion": "Integrate a vector database into a personal project by signing up for a free Pinecone tier or running ChromaDB locally, then practice storing and querying embeddings from a real dataset such as Wikipedia articles or product reviews."
+        },
+        {
+          "skill": "System design",
+          "severity": "critical",
+          "suggestion": "Study system design fundamentals through 'Designing Data-Intensive Applications' by Martin Kleppmann and supplement it with AI-specific architecture patterns on the ByteByteGo blog, focusing on scalable ML serving and data pipelines."
+        },
+        {
+          "skill": "LangGraph",
+          "severity": "nice-to-have",
+          "suggestion": "Work through the official LangGraph documentation and tutorials to build a stateful, multi-step agent workflow \u2014 a good starter project is a research assistant that loops through search, summarize, and decide steps."
+        },
+        {
+          "skill": "Multi-agent systems",
+          "severity": "nice-to-have",
+          "suggestion": "Implement a multi-agent system using CrewAI or AutoGen frameworks by building a project where specialized agents collaborate on a task (e.g., a code review pipeline with a planner, coder, and critic agent)."
+        },
+        {
+          "skill": "Kubernetes",
+          "severity": "nice-to-have",
+          "suggestion": "Earn the Certified Kubernetes Application Developer (CKAD) certification via Linux Foundation, and reinforce hands-on skills by deploying a containerized ML model on a local Minikube cluster."
+        },
+        {
+          "skill": "Cloud deployment (AWS/GCP)",
+          "severity": "nice-to-have",
+          "suggestion": "Complete the AWS Certified Machine Learning \u2013 Specialty or Google Cloud Professional Machine Learning Engineer certification, and practice by deploying a FastAPI-wrapped model to AWS SageMaker or GCP Vertex AI."
+        },
+        {
+          "skill": "React",
+          "severity": "nice-to-have",
+          "suggestion": "Follow the official React documentation's new 'Learn React' course at react.dev and build a simple front-end interface for one of your existing AI projects, such as a chat UI that connects to a LangChain backend."
+        },
+        {
+          "skill": "TypeScript",
+          "severity": "nice-to-have",
+          "suggestion": "Take the 'TypeScript for JavaScript Programmers' path on the official TypeScript handbook and refactor an existing JavaScript project to TypeScript to solidify type-safety concepts in a practical context."
+        },
+        {
+          "skill": "Legal tech experience",
+          "severity": "nice-to-have",
+          "suggestion": "Gain legal tech exposure by contributing to or building a project around publicly available legal datasets (e.g., the Harvard Caselaw Access Project), and explore platforms like Clio or ContractPodAi to understand domain-specific workflows and terminology."
+        },
+        {
+          "skill": "Document processing experience",
+          "severity": "nice-to-have",
+          "suggestion": "Develop hands-on document processing skills by building a pipeline that ingests PDFs and Word documents using libraries like PyMuPDF, pdfplumber, or Apache Tika, then applies chunking, OCR (via Tesseract), and metadata extraction before feeding results into a RAG system."
+        }
+      ],
+      "cover_letter": "",
+      "error": null
+    }
+  },
+  {
+    "id": "2026-05-02T00:36:50.759721",
+    "date": "2026-05-02 00:36",
+    "company": "Unknown",
+    "title": "AI Engineer",
+    "score": 5.5,
+    "analysis": {
+      "job_text": "AI Engineer - Series B Startup (Remote)\n\nAbout: We're building an AI-powered legal document review platform.\n\nRequirements:\n- 5+ years of software engineering experience\n- Strong Python skills, particularly with FastAPI or Flask\n- Experience building RAG pipelines with LangChain or LlamaIndex\n- Vector databases (Pinecone, Weaviate, or ChromaDB)\n- LLM API integration (OpenAI, Anthropic, or Cohere)\n- SQL and data modeling for structured + unstructured data\n- Docker for containerized deployments\n- Must have: strong system design skills\n\nNice to have:\n- Experience with LangGraph or multi-agent systems\n- Kubernetes / cloud deployment (AWS/GCP)\n- Frontend experience (React/TypeScript)\n- Prior experience in legal tech or document processing",
+      "requirements": {
+        "title": "AI Engineer",
+        "company": "Unknown",
+        "must_have_skills": [
+          "Python (FastAPI or Flask)",
+          "RAG pipelines (LangChain or LlamaIndex)",
+          "Vector databases (Pinecone, Weaviate, or ChromaDB)",
+          "LLM API integration (OpenAI, Anthropic, or Cohere)",
+          "SQL and data modeling",
+          "Docker",
+          "System design"
+        ],
+        "nice_to_have_skills": [
+          "LangGraph",
+          "Multi-agent systems",
+          "Kubernetes",
+          "Cloud deployment (AWS/GCP)",
+          "React",
+          "TypeScript",
+          "Legal tech experience",
+          "Document processing experience"
+        ],
+        "years_experience": 5,
+        "responsibilities": [
+          "Build and maintain an AI-powered legal document review platform",
+          "Develop and manage RAG pipelines",
+          "Integrate LLM APIs into the platform",
+          "Design and implement containerized deployments using Docker",
+          "Handle SQL and data modeling for structured and unstructured data",
+          "Contribute to system design decisions"
+        ]
+      },
+      "match_score": 5.5,
+      "matched_skills": [
+        "Python (FastAPI or Flask)",
+        "SQL and data modeling",
+        "Docker",
+        "LLM API integration (OpenAI, Anthropic, or Cohere)"
+      ],
+      "gaps": [
+        {
+          "skill": "RAG pipelines (LangChain or LlamaIndex)",
+          "severity": "critical",
+          "suggestion": "Build an end-to-end RAG application using LangChain or LlamaIndex \u2014 for example, a document Q&A chatbot \u2014 and follow the official LangChain documentation and DeepLearning.AI's 'LangChain: Chat with Your Data' short course to guide your learning."
+        },
+        {
+          "skill": "Vector databases (Pinecone, Weaviate, or ChromaDB)",
+          "severity": "critical",
+          "suggestion": "Integrate a vector database into a personal project by signing up for a free Pinecone tier or running ChromaDB locally, then practice storing and querying embeddings from a real dataset such as Wikipedia articles or product reviews."
+        },
+        {
+          "skill": "System design",
+          "severity": "critical",
+          "suggestion": "Study system design fundamentals through 'Designing Data-Intensive Applications' by Martin Kleppmann and supplement it with AI-specific architecture patterns on the ByteByteGo blog, focusing on scalable ML serving and data pipelines."
+        },
+        {
+          "skill": "LangGraph",
+          "severity": "nice-to-have",
+          "suggestion": "Work through the official LangGraph documentation and tutorials to build a stateful, multi-step agent workflow \u2014 a good starter project is a research assistant that loops through search, summarize, and decide steps."
+        },
+        {
+          "skill": "Multi-agent systems",
+          "severity": "nice-to-have",
+          "suggestion": "Implement a multi-agent system using CrewAI or AutoGen frameworks by building a project where specialized agents collaborate on a task (e.g., a code review pipeline with a planner, coder, and critic agent)."
+        },
+        {
+          "skill": "Kubernetes",
+          "severity": "nice-to-have",
+          "suggestion": "Earn the Certified Kubernetes Application Developer (CKAD) certification via Linux Foundation, and reinforce hands-on skills by deploying a containerized ML model on a local Minikube cluster."
+        },
+        {
+          "skill": "Cloud deployment (AWS/GCP)",
+          "severity": "nice-to-have",
+          "suggestion": "Complete the AWS Certified Machine Learning \u2013 Specialty or Google Cloud Professional Machine Learning Engineer certification, and practice by deploying a FastAPI-wrapped model to AWS SageMaker or GCP Vertex AI."
+        },
+        {
+          "skill": "React",
+          "severity": "nice-to-have",
+          "suggestion": "Follow the official React documentation's new 'Learn React' course at react.dev and build a simple front-end interface for one of your existing AI projects, such as a chat UI that connects to a LangChain backend."
+        },
+        {
+          "skill": "TypeScript",
+          "severity": "nice-to-have",
+          "suggestion": "Take the 'TypeScript for JavaScript Programmers' path on the official TypeScript handbook and refactor an existing JavaScript project to TypeScript to solidify type-safety concepts in a practical context."
+        },
+        {
+          "skill": "Legal tech experience",
+          "severity": "nice-to-have",
+          "suggestion": "Gain legal tech exposure by contributing to or building a project around publicly available legal datasets (e.g., the Harvard Caselaw Access Project), and explore platforms like Clio or ContractPodAi to understand domain-specific workflows and terminology."
+        },
+        {
+          "skill": "Document processing experience",
+          "severity": "nice-to-have",
+          "suggestion": "Develop hands-on document processing skills by building a pipeline that ingests PDFs and Word documents using libraries like PyMuPDF, pdfplumber, or Apache Tika, then applies chunking, OCR (via Tesseract), and metadata extraction before feeding results into a RAG system."
+        }
+      ],
+      "cover_letter": "",
+      "error": null
+    }
+  },
+  {
+    "id": "2026-05-02T00:36:23.808629",
+    "date": "2026-05-02 00:36",
+    "company": "Unknown",
+    "title": "AI Engineer",
+    "score": 5.5,
+    "analysis": {
+      "job_text": "AI Engineer - Series B Startup (Remote)\n\nAbout: We're building an AI-powered legal document review platform.\n\nRequirements:\n- 5+ years of software engineering experience\n- Strong Python skills, particularly with FastAPI or Flask\n- Experience building RAG pipelines with LangChain or LlamaIndex\n- Vector databases (Pinecone, Weaviate, or ChromaDB)\n- LLM API integration (OpenAI, Anthropic, or Cohere)\n- SQL and data modeling for structured + unstructured data\n- Docker for containerized deployments\n- Must have: strong system design skills\n\nNice to have:\n- Experience with LangGraph or multi-agent systems\n- Kubernetes / cloud deployment (AWS/GCP)\n- Frontend experience (React/TypeScript)\n- Prior experience in legal tech or document processing",
+      "requirements": {
+        "title": "AI Engineer",
+        "company": "Unknown",
+        "must_have_skills": [
+          "Python (FastAPI or Flask)",
+          "RAG pipelines (LangChain or LlamaIndex)",
+          "Vector databases (Pinecone, Weaviate, or ChromaDB)",
+          "LLM API integration (OpenAI, Anthropic, or Cohere)",
+          "SQL and data modeling",
+          "Docker",
+          "System design"
+        ],
+        "nice_to_have_skills": [
+          "LangGraph",
+          "Multi-agent systems",
+          "Kubernetes",
+          "Cloud deployment (AWS/GCP)",
+          "React",
+          "TypeScript",
+          "Legal tech experience",
+          "Document processing experience"
+        ],
+        "years_experience": 5,
+        "responsibilities": [
+          "Build and maintain an AI-powered legal document review platform",
+          "Develop and manage RAG pipelines",
+          "Integrate LLM APIs into the platform",
+          "Design and implement containerized deployments using Docker",
+          "Handle SQL and data modeling for structured and unstructured data",
+          "Contribute to system design decisions"
+        ]
+      },
+      "match_score": 5.5,
+      "matched_skills": [
+        "Python (FastAPI or Flask)",
+        "SQL and data modeling",
+        "Docker",
+        "LLM API integration (OpenAI, Anthropic, or Cohere)"
+      ],
+      "gaps": [
+        {
+          "skill": "RAG pipelines (LangChain or LlamaIndex)",
+          "severity": "critical",
+          "suggestion": "Build an end-to-end RAG application using LangChain or LlamaIndex \u2014 for example, a document Q&A chatbot \u2014 and follow the official LangChain documentation and DeepLearning.AI's 'LangChain: Chat with Your Data' short course to guide your learning."
+        },
+        {
+          "skill": "Vector databases (Pinecone, Weaviate, or ChromaDB)",
+          "severity": "critical",
+          "suggestion": "Integrate a vector database into a personal project by signing up for a free Pinecone tier or running ChromaDB locally, then practice storing and querying embeddings from a real dataset such as Wikipedia articles or product reviews."
+        },
+        {
+          "skill": "System design",
+          "severity": "critical",
+          "suggestion": "Study system design fundamentals through 'Designing Data-Intensive Applications' by Martin Kleppmann and supplement it with AI-specific architecture patterns on the ByteByteGo blog, focusing on scalable ML serving and data pipelines."
+        },
+        {
+          "skill": "LangGraph",
+          "severity": "nice-to-have",
+          "suggestion": "Work through the official LangGraph documentation and tutorials to build a stateful, multi-step agent workflow \u2014 a good starter project is a research assistant that loops through search, summarize, and decide steps."
+        },
+        {
+          "skill": "Multi-agent systems",
+          "severity": "nice-to-have",
+          "suggestion": "Implement a multi-agent system using CrewAI or AutoGen frameworks by building a project where specialized agents collaborate on a task (e.g., a code review pipeline with a planner, coder, and critic agent)."
+        },
+        {
+          "skill": "Kubernetes",
+          "severity": "nice-to-have",
+          "suggestion": "Earn the Certified Kubernetes Application Developer (CKAD) certification via Linux Foundation, and reinforce hands-on skills by deploying a containerized ML model on a local Minikube cluster."
+        },
+        {
+          "skill": "Cloud deployment (AWS/GCP)",
+          "severity": "nice-to-have",
+          "suggestion": "Complete the AWS Certified Machine Learning \u2013 Specialty or Google Cloud Professional Machine Learning Engineer certification, and practice by deploying a FastAPI-wrapped model to AWS SageMaker or GCP Vertex AI."
+        },
+        {
+          "skill": "React",
+          "severity": "nice-to-have",
+          "suggestion": "Follow the official React documentation's new 'Learn React' course at react.dev and build a simple front-end interface for one of your existing AI projects, such as a chat UI that connects to a LangChain backend."
+        },
+        {
+          "skill": "TypeScript",
+          "severity": "nice-to-have",
+          "suggestion": "Take the 'TypeScript for JavaScript Programmers' path on the official TypeScript handbook and refactor an existing JavaScript project to TypeScript to solidify type-safety concepts in a practical context."
+        },
+        {
+          "skill": "Legal tech experience",
+          "severity": "nice-to-have",
+          "suggestion": "Gain legal tech exposure by contributing to or building a project around publicly available legal datasets (e.g., the Harvard Caselaw Access Project), and explore platforms like Clio or ContractPodAi to understand domain-specific workflows and terminology."
+        },
+        {
+          "skill": "Document processing experience",
+          "severity": "nice-to-have",
+          "suggestion": "Develop hands-on document processing skills by building a pipeline that ingests PDFs and Word documents using libraries like PyMuPDF, pdfplumber, or Apache Tika, then applies chunking, OCR (via Tesseract), and metadata extraction before feeding results into a RAG system."
+        }
+      ],
+      "cover_letter": "",
+      "error": null
+    }
+  },
+  {
+    "id": "2026-05-02T00:36:17.487715",
+    "date": "2026-05-02 00:36",
+    "company": "Unknown",
+    "title": "AI Engineer",
+    "score": 5.5,
+    "analysis": {
+      "job_text": "AI Engineer - Series B Startup (Remote)\n\nAbout: We're building an AI-powered legal document review platform.\n\nRequirements:\n- 5+ years of software engineering experience\n- Strong Python skills, particularly with FastAPI or Flask\n- Experience building RAG pipelines with LangChain or LlamaIndex\n- Vector databases (Pinecone, Weaviate, or ChromaDB)\n- LLM API integration (OpenAI, Anthropic, or Cohere)\n- SQL and data modeling for structured + unstructured data\n- Docker for containerized deployments\n- Must have: strong system design skills\n\nNice to have:\n- Experience with LangGraph or multi-agent systems\n- Kubernetes / cloud deployment (AWS/GCP)\n- Frontend experience (React/TypeScript)\n- Prior experience in legal tech or document processing",
+      "requirements": {
+        "title": "AI Engineer",
+        "company": "Unknown",
+        "must_have_skills": [
+          "Python (FastAPI or Flask)",
+          "RAG pipelines (LangChain or LlamaIndex)",
+          "Vector databases (Pinecone, Weaviate, or ChromaDB)",
+          "LLM API integration (OpenAI, Anthropic, or Cohere)",
+          "SQL and data modeling",
+          "Docker",
+          "System design"
+        ],
+        "nice_to_have_skills": [
+          "LangGraph",
+          "Multi-agent systems",
+          "Kubernetes",
+          "Cloud deployment (AWS/GCP)",
+          "React",
+          "TypeScript",
+          "Legal tech experience",
+          "Document processing experience"
+        ],
+        "years_experience": 5,
+        "responsibilities": [
+          "Build and maintain an AI-powered legal document review platform",
+          "Develop and manage RAG pipelines",
+          "Integrate LLM APIs into the platform",
+          "Design and implement containerized deployments using Docker",
+          "Handle SQL and data modeling for structured and unstructured data",
+          "Contribute to system design decisions"
+        ]
+      },
+      "match_score": 5.5,
+      "matched_skills": [
+        "Python (FastAPI or Flask)",
+        "SQL and data modeling",
+        "Docker",
+        "LLM API integration (OpenAI, Anthropic, or Cohere)"
+      ],
+      "gaps": [
+        {
+          "skill": "RAG pipelines (LangChain or LlamaIndex)",
+          "severity": "critical",
+          "suggestion": "Build an end-to-end RAG application using LangChain or LlamaIndex \u2014 for example, a document Q&A chatbot \u2014 and follow the official LangChain documentation and DeepLearning.AI's 'LangChain: Chat with Your Data' short course to guide your learning."
+        },
+        {
+          "skill": "Vector databases (Pinecone, Weaviate, or ChromaDB)",
+          "severity": "critical",
+          "suggestion": "Integrate a vector database into a personal project by signing up for a free Pinecone tier or running ChromaDB locally, then practice storing and querying embeddings from a real dataset such as Wikipedia articles or product reviews."
+        },
+        {
+          "skill": "System design",
+          "severity": "critical",
+          "suggestion": "Study system design fundamentals through 'Designing Data-Intensive Applications' by Martin Kleppmann and supplement it with AI-specific architecture patterns on the ByteByteGo blog, focusing on scalable ML serving and data pipelines."
+        },
+        {
+          "skill": "LangGraph",
+          "severity": "nice-to-have",
+          "suggestion": "Work through the official LangGraph documentation and tutorials to build a stateful, multi-step agent workflow \u2014 a good starter project is a research assistant that loops through search, summarize, and decide steps."
+        },
+        {
+          "skill": "Multi-agent systems",
+          "severity": "nice-to-have",
+          "suggestion": "Implement a multi-agent system using CrewAI or AutoGen frameworks by building a project where specialized agents collaborate on a task (e.g., a code review pipeline with a planner, coder, and critic agent)."
+        },
+        {
+          "skill": "Kubernetes",
+          "severity": "nice-to-have",
+          "suggestion": "Earn the Certified Kubernetes Application Developer (CKAD) certification via Linux Foundation, and reinforce hands-on skills by deploying a containerized ML model on a local Minikube cluster."
+        },
+        {
+          "skill": "Cloud deployment (AWS/GCP)",
+          "severity": "nice-to-have",
+          "suggestion": "Complete the AWS Certified Machine Learning \u2013 Specialty or Google Cloud Professional Machine Learning Engineer certification, and practice by deploying a FastAPI-wrapped model to AWS SageMaker or GCP Vertex AI."
+        },
+        {
+          "skill": "React",
+          "severity": "nice-to-have",
+          "suggestion": "Follow the official React documentation's new 'Learn React' course at react.dev and build a simple front-end interface for one of your existing AI projects, such as a chat UI that connects to a LangChain backend."
+        },
+        {
+          "skill": "TypeScript",
+          "severity": "nice-to-have",
+          "suggestion": "Take the 'TypeScript for JavaScript Programmers' path on the official TypeScript handbook and refactor an existing JavaScript project to TypeScript to solidify type-safety concepts in a practical context."
+        },
+        {
+          "skill": "Legal tech experience",
+          "severity": "nice-to-have",
+          "suggestion": "Gain legal tech exposure by contributing to or building a project around publicly available legal datasets (e.g., the Harvard Caselaw Access Project), and explore platforms like Clio or ContractPodAi to understand domain-specific workflows and terminology."
+        },
+        {
+          "skill": "Document processing experience",
+          "severity": "nice-to-have",
+          "suggestion": "Develop hands-on document processing skills by building a pipeline that ingests PDFs and Word documents using libraries like PyMuPDF, pdfplumber, or Apache Tika, then applies chunking, OCR (via Tesseract), and metadata extraction before feeding results into a RAG system."
+        }
+      ],
+      "cover_letter": "",
+      "error": null
+    }
+  },
+  {
+    "id": "2026-05-02T00:36:11.511207",
+    "date": "2026-05-02 00:36",
+    "company": "Unknown",
+    "title": "AI Engineer",
+    "score": 5.5,
+    "analysis": {
+      "job_text": "AI Engineer - Series B Startup (Remote)\n\nAbout: We're building an AI-powered legal document review platform.\n\nRequirements:\n- 5+ years of software engineering experience\n- Strong Python skills, particularly with FastAPI or Flask\n- Experience building RAG pipelines with LangChain or LlamaIndex\n- Vector databases (Pinecone, Weaviate, or ChromaDB)\n- LLM API integration (OpenAI, Anthropic, or Cohere)\n- SQL and data modeling for structured + unstructured data\n- Docker for containerized deployments\n- Must have: strong system design skills\n\nNice to have:\n- Experience with LangGraph or multi-agent systems\n- Kubernetes / cloud deployment (AWS/GCP)\n- Frontend experience (React/TypeScript)\n- Prior experience in legal tech or document processing",
+      "requirements": {
+        "title": "AI Engineer",
+        "company": "Unknown",
+        "must_have_skills": [
+          "Python (FastAPI or Flask)",
+          "RAG pipelines (LangChain or LlamaIndex)",
+          "Vector databases (Pinecone, Weaviate, or ChromaDB)",
+          "LLM API integration (OpenAI, Anthropic, or Cohere)",
+          "SQL and data modeling",
+          "Docker",
+          "System design"
+        ],
+        "nice_to_have_skills": [
+          "LangGraph",
+          "Multi-agent systems",
+          "Kubernetes",
+          "Cloud deployment (AWS/GCP)",
+          "React",
+          "TypeScript",
+          "Legal tech experience",
+          "Document processing experience"
+        ],
+        "years_experience": 5,
+        "responsibilities": [
+          "Build and maintain an AI-powered legal document review platform",
+          "Develop and manage RAG pipelines",
+          "Integrate LLM APIs into the platform",
+          "Design and implement containerized deployments using Docker",
+          "Handle SQL and data modeling for structured and unstructured data",
+          "Contribute to system design decisions"
+        ]
+      },
+      "match_score": 5.5,
+      "matched_skills": [
+        "Python (FastAPI or Flask)",
+        "SQL and data modeling",
+        "Docker",
+        "LLM API integration (OpenAI, Anthropic, or Cohere)"
+      ],
+      "gaps": [
+        {
+          "skill": "RAG pipelines (LangChain or LlamaIndex)",
+          "severity": "critical",
+          "suggestion": "Build an end-to-end RAG application using LangChain or LlamaIndex \u2014 for example, a document Q&A chatbot \u2014 and follow the official LangChain documentation and DeepLearning.AI's 'LangChain: Chat with Your Data' short course to guide your learning."
+        },
+        {
+          "skill": "Vector databases (Pinecone, Weaviate, or ChromaDB)",
+          "severity": "critical",
+          "suggestion": "Integrate a vector database into a personal project by signing up for a free Pinecone tier or running ChromaDB locally, then practice storing and querying embeddings from a real dataset such as Wikipedia articles or product reviews."
+        },
+        {
+          "skill": "System design",
+          "severity": "critical",
+          "suggestion": "Study system design fundamentals through 'Designing Data-Intensive Applications' by Martin Kleppmann and supplement it with AI-specific architecture patterns on the ByteByteGo blog, focusing on scalable ML serving and data pipelines."
+        },
+        {
+          "skill": "LangGraph",
+          "severity": "nice-to-have",
+          "suggestion": "Work through the official LangGraph documentation and tutorials to build a stateful, multi-step agent workflow \u2014 a good starter project is a research assistant that loops through search, summarize, and decide steps."
+        },
+        {
+          "skill": "Multi-agent systems",
+          "severity": "nice-to-have",
+          "suggestion": "Implement a multi-agent system using CrewAI or AutoGen frameworks by building a project where specialized agents collaborate on a task (e.g., a code review pipeline with a planner, coder, and critic agent)."
+        },
+        {
+          "skill": "Kubernetes",
+          "severity": "nice-to-have",
+          "suggestion": "Earn the Certified Kubernetes Application Developer (CKAD) certification via Linux Foundation, and reinforce hands-on skills by deploying a containerized ML model on a local Minikube cluster."
+        },
+        {
+          "skill": "Cloud deployment (AWS/GCP)",
+          "severity": "nice-to-have",
+          "suggestion": "Complete the AWS Certified Machine Learning \u2013 Specialty or Google Cloud Professional Machine Learning Engineer certification, and practice by deploying a FastAPI-wrapped model to AWS SageMaker or GCP Vertex AI."
+        },
+        {
+          "skill": "React",
+          "severity": "nice-to-have",
+          "suggestion": "Follow the official React documentation's new 'Learn React' course at react.dev and build a simple front-end interface for one of your existing AI projects, such as a chat UI that connects to a LangChain backend."
+        },
+        {
+          "skill": "TypeScript",
+          "severity": "nice-to-have",
+          "suggestion": "Take the 'TypeScript for JavaScript Programmers' path on the official TypeScript handbook and refactor an existing JavaScript project to TypeScript to solidify type-safety concepts in a practical context."
+        },
+        {
+          "skill": "Legal tech experience",
+          "severity": "nice-to-have",
+          "suggestion": "Gain legal tech exposure by contributing to or building a project around publicly available legal datasets (e.g., the Harvard Caselaw Access Project), and explore platforms like Clio or ContractPodAi to understand domain-specific workflows and terminology."
+        },
+        {
+          "skill": "Document processing experience",
+          "severity": "nice-to-have",
+          "suggestion": "Develop hands-on document processing skills by building a pipeline that ingests PDFs and Word documents using libraries like PyMuPDF, pdfplumber, or Apache Tika, then applies chunking, OCR (via Tesseract), and metadata extraction before feeding results into a RAG system."
+        }
+      ],
+      "cover_letter": "",
+      "error": null
+    }
+  },
+  {
+    "id": "2026-05-02T00:19:10.080533",
+    "date": "2026-05-02 00:19",
+    "company": "Unknown",
+    "title": "AI Engineer",
+    "score": 4.5,
+    "analysis": {
+      "job_text": "AI Engineer - Series B Startup (Remote)\n\nAbout: We're building an AI-powered legal document review platform.\n\nRequirements:\n- 5+ years of software engineering experience\n- Strong Python skills, particularly with FastAPI or Flask\n- Experience building RAG pipelines with LangChain or LlamaIndex\n- Vector databases (Pinecone, Weaviate, or ChromaDB)\n- LLM API integration (OpenAI, Anthropic, or Cohere)\n- SQL and data modeling for structured + unstructured data\n- Docker for containerized deployments\n- Must have: strong system design skills\n\nNice to have:\n- Experience with LangGraph or multi-agent systems\n- Kubernetes / cloud deployment (AWS/GCP)\n- Frontend experience (React/TypeScript)\n- Prior experience in legal tech or document processing",
+      "requirements": {
+        "title": "AI Engineer",
+        "company": "Unknown",
+        "must_have_skills": [
+          "Python",
+          "FastAPI or Flask",
+          "RAG pipelines (LangChain or LlamaIndex)",
+          "Vector databases (Pinecone, Weaviate, or ChromaDB)",
+          "LLM API integration (OpenAI, Anthropic, or Cohere)",
+          "SQL and data modeling",
+          "Docker",
+          "System design"
+        ],
+        "nice_to_have_skills": [
+          "LangGraph",
+          "Multi-agent systems",
+          "Kubernetes",
+          "AWS",
+          "GCP",
+          "React",
+          "TypeScript",
+          "Legal tech",
+          "Document processing"
+        ],
+        "years_experience": 5,
+        "responsibilities": [
+          "Build and maintain an AI-powered legal document review platform",
+          "Develop and optimize RAG pipelines",
+          "Integrate LLM APIs into production systems",
+          "Design and implement containerized deployments using Docker",
+          "Handle SQL and data modeling for structured and unstructured data"
+        ]
+      },
+      "match_score": 4.5,
+      "matched_skills": [
+        "FastAPI or Flask",
+        "SQL and data modeling",
+        "Docker",
+        "LLM API integration (OpenAI, Anthropic, or Cohere)"
+      ],
+      "gaps": [
+        {
+          "skill": "Python",
+          "severity": "critical",
+          "suggestion": "Complete the 'Python for Everybody' specialization on Coursera or work through 'Automate the Boring Stuff with Python' (free online), then reinforce your skills by building at least two end-to-end Python projects such as a REST API or a data pipeline."
+        },
+        {
+          "skill": "RAG pipelines (LangChain or LlamaIndex)",
+          "severity": "critical",
+          "suggestion": "Build a RAG (Retrieval-Augmented Generation) application using LangChain by following the official LangChain documentation and completing the free 'LangChain for LLM Application Development' short course on DeepLearning.AI."
+        },
+        {
+          "skill": "Vector databases (Pinecone, Weaviate, or ChromaDB)",
+          "severity": "critical",
+          "suggestion": "Spin up a hands-on project that indexes a document corpus into ChromaDB or Pinecone (both offer free tiers), and practice similarity search queries to understand embedding storage and retrieval in a real-world context."
+        },
+        {
+          "skill": "System design",
+          "severity": "critical",
+          "suggestion": "Study system design fundamentals using 'Designing Data-Intensive Applications' by Martin Kleppmann and supplement it with mock system design interviews on platforms like Exponent or interviewing.io, focusing on scalable AI/ML serving architectures."
+        },
+        {
+          "skill": "LangGraph",
+          "severity": "nice-to-have",
+          "suggestion": "Work through the official LangGraph documentation and tutorials on the LangChain blog, then build a stateful, multi-step agent workflow (e.g., a research assistant with memory and branching logic) to demonstrate practical proficiency."
+        },
+        {
+          "skill": "Multi-agent systems",
+          "severity": "nice-to-have",
+          "suggestion": "Take the 'Multi AI Agent Systems with crewAI' short course on DeepLearning.AI, then implement a small multi-agent project \u2014 such as an autonomous research-and-summarization pipeline \u2014 using CrewAI or AutoGen to showcase in your portfolio."
+        },
+        {
+          "skill": "Kubernetes",
+          "severity": "nice-to-have",
+          "suggestion": "Earn the Certified Kubernetes Application Developer (CKAD) certification from the Linux Foundation, and practice hands-on labs using killer.sh or KodeKloud to solidify your ability to deploy and manage containerized AI workloads."
+        },
+        {
+          "skill": "AWS",
+          "severity": "nice-to-have",
+          "suggestion": "Pursue the AWS Certified Machine Learning \u2013 Specialty or AWS Certified Developer \u2013 Associate certification, and deploy a personal AI project (e.g., a serverless inference endpoint) using AWS SageMaker or Lambda to gain practical cloud experience."
+        },
+        {
+          "skill": "GCP",
+          "severity": "nice-to-have",
+          "suggestion": "Complete the 'Google Cloud Professional Machine Learning Engineer' learning path on Google Cloud Skills Boost, and use GCP's free tier to deploy a model on Vertex AI, giving you hands-on experience with GCP's AI/ML ecosystem."
+        },
+        {
+          "skill": "React",
+          "severity": "nice-to-have",
+          "suggestion": "Build a simple AI-powered front-end application using React by following the official React documentation and the free 'Full Stack Open' course (University of Helsinki), focusing on integrating a chat or document Q&A UI with a Python backend."
+        },
+        {
+          "skill": "TypeScript",
+          "severity": "nice-to-have",
+          "suggestion": "Add TypeScript to your React or Node.js projects by completing the 'TypeScript for JavaScript Programmers' section of the official TypeScript docs, then refactor an existing JavaScript project to TypeScript to practice type safety in a real codebase."
+        },
+        {
+          "skill": "Legal tech",
+          "severity": "nice-to-have",
+          "suggestion": "Gain domain context by reading industry reports from organizations like LegalTech News or ILTA, and build a targeted portfolio project \u2014 such as a contract clause extractor or legal Q&A chatbot \u2014 to demonstrate applied AI knowledge in the legal domain."
+        },
+        {
+          "skill": "Document processing",
+          "severity": "nice-to-have",
+          "suggestion": "Learn document processing pipelines by experimenting with libraries like PyMuPDF, pdfplumber, or Apache Tika for PDF parsing, and build an end-to-end project that ingests, chunks, and indexes multi-format documents (PDF, DOCX, HTML) into a vector store."
+        }
+      ],
+      "cover_letter": "",
+      "error": null
+    }
+  },
+  {
+    "id": "2026-05-02T00:18:37.218469",
+    "date": "2026-05-02 00:18",
+    "company": "Unknown",
+    "title": "AI Engineer",
+    "score": 5.2,
+    "analysis": {
+      "job_text": "AI Engineer - Series B Startup (Remote)\n\nAbout: We're building an AI-powered legal document review platform.\n\nRequirements:\n- 5+ years of software engineering experience\n- Strong Python skills, particularly with FastAPI or Flask\n- Experience building RAG pipelines with LangChain or LlamaIndex\n- Vector databases (Pinecone, Weaviate, or ChromaDB)\n- LLM API integration (OpenAI, Anthropic, or Cohere)\n- SQL and data modeling for structured + unstructured data\n- Docker for containerized deployments\n- Must have: strong system design skills\n\nNice to have:\n- Experience with LangGraph or multi-agent systems\n- Kubernetes / cloud deployment (AWS/GCP)\n- Frontend experience (React/TypeScript)\n- Prior experience in legal tech or document processing",
+      "requirements": {
+        "title": "AI Engineer",
+        "company": "Unknown",
+        "must_have_skills": [
+          "Python",
+          "FastAPI or Flask",
+          "RAG pipelines (LangChain or LlamaIndex)",
+          "Vector databases (Pinecone, Weaviate, or ChromaDB)",
+          "LLM API integration (OpenAI, Anthropic, or Cohere)",
+          "SQL and data modeling",
+          "Docker",
+          "System design"
+        ],
+        "nice_to_have_skills": [
+          "LangGraph",
+          "Multi-agent systems",
+          "Kubernetes",
+          "AWS",
+          "GCP",
+          "React",
+          "TypeScript",
+          "Legal tech",
+          "Document processing"
+        ],
+        "years_experience": 5,
+        "responsibilities": [
+          "Build and maintain an AI-powered legal document review platform",
+          "Develop and optimize RAG pipelines",
+          "Integrate LLM APIs into production systems",
+          "Design and implement containerized deployments using Docker",
+          "Handle SQL and data modeling for structured and unstructured data"
+        ]
+      },
+      "match_score": 5.2,
+      "matched_skills": [
+        "FastAPI or Flask",
+        "SQL and data modeling",
+        "Docker",
+        "LLM API integration (OpenAI, Anthropic, or Cohere)"
+      ],
+      "gaps": [
+        {
+          "skill": "Python",
+          "severity": "critical",
+          "suggestion": "Complete the 'Python for Everybody' specialization on Coursera or work through 'Automate the Boring Stuff with Python' (free online), then reinforce your skills by building at least two end-to-end Python projects such as a REST API or data pipeline."
+        },
+        {
+          "skill": "RAG pipelines (LangChain or LlamaIndex)",
+          "severity": "critical",
+          "suggestion": "Build a retrieval-augmented generation (RAG) application using LangChain's official documentation and the 'LangChain: Chat with Your Data' short course on DeepLearning.AI, which walks you through chunking, embedding, and retrieval step by step."
+        },
+        {
+          "skill": "Vector databases (Pinecone, Weaviate, or ChromaDB)",
+          "severity": "critical",
+          "suggestion": "Spin up a free Pinecone or ChromaDB instance and build a semantic search project \u2014 for example, indexing a set of documents and querying them with OpenAI embeddings \u2014 to gain hands-on experience with vector storage and similarity search."
+        },
+        {
+          "skill": "System design",
+          "severity": "critical",
+          "suggestion": "Study system design fundamentals using 'Designing Data-Intensive Applications' by Martin Kleppmann and practice on platforms like Excalidraw by designing architectures for AI systems (e.g., a scalable LLM inference service with caching and load balancing)."
+        },
+        {
+          "skill": "LangGraph",
+          "severity": "nice-to-have",
+          "suggestion": "Work through the official LangGraph documentation and tutorials on the LangChain blog, then build a stateful, multi-step agent workflow \u2014 such as a research assistant that plans, searches, and summarizes \u2014 to demonstrate practical proficiency."
+        },
+        {
+          "skill": "Multi-agent systems",
+          "severity": "nice-to-have",
+          "suggestion": "Take the 'Multi AI Agent Systems with crewAI' short course on DeepLearning.AI, then implement a small multi-agent project (e.g., a team of agents that collaborates to draft and review content) to showcase in your portfolio."
+        },
+        {
+          "skill": "Kubernetes",
+          "severity": "nice-to-have",
+          "suggestion": "Earn the Certified Kubernetes Application Developer (CKAD) certification from the Linux Foundation, which includes hands-on labs that directly prepare you for deploying and managing containerized AI workloads in production."
+        },
+        {
+          "skill": "AWS",
+          "severity": "nice-to-have",
+          "suggestion": "Pursue the AWS Certified Machine Learning \u2013 Specialty or AWS Certified Solutions Architect \u2013 Associate certification via AWS Skill Builder, and complement it by deploying a real AI model endpoint using SageMaker or Lambda."
+        },
+        {
+          "skill": "GCP",
+          "severity": "nice-to-have",
+          "suggestion": "Complete the 'Google Cloud Professional Machine Learning Engineer' learning path on Google Cloud Skills Boost, and get hands-on by deploying a model using Vertex AI to demonstrate GCP-specific ML deployment skills."
+        },
+        {
+          "skill": "React",
+          "severity": "nice-to-have",
+          "suggestion": "Build a small AI-powered front-end application using React \u2014 such as a chat interface that calls an LLM API \u2014 by following the official React documentation and the 'Full Stack Open' free course from the University of Helsinki."
+        },
+        {
+          "skill": "TypeScript",
+          "severity": "nice-to-have",
+          "suggestion": "Migrate or rewrite one of your existing JavaScript projects into TypeScript using the official TypeScript Handbook, focusing on typing API responses and component props, which are critical skills for production-grade AI application front ends."
+        },
+        {
+          "skill": "Legal tech",
+          "severity": "nice-to-have",
+          "suggestion": "Gain domain familiarity by completing free resources like Stanford's 'CodeX and the Future of Legal Tech' talks, then build a legal-focused AI project such as a contract clause extractor or legal Q&A chatbot to demonstrate applied knowledge."
+        },
+        {
+          "skill": "Document processing",
+          "severity": "nice-to-have",
+          "suggestion": "Learn document processing by working with libraries like PyMuPDF, pdfplumber, and Apache Tika in Python; build a pipeline that ingests mixed-format documents (PDF, DOCX, HTML), extracts structured data, and feeds it into an LLM for summarization."
+        }
+      ],
+      "cover_letter": "",
+      "error": null
+    }
+  },
+  {
+    "id": "2026-04-30T23:55:09.123541",
+    "date": "2026-04-30 23:55",
+    "company": "Unknown",
+    "title": "AI Engineer",
+    "score": 4.2,
+    "analysis": {
+      "job_text": "AI Engineer - Series B Startup (Remote)\n\nAbout: We're building an AI-powered legal document review platform.\n\nRequirements:\n- 5+ years of software engineering experience\n- Strong Python skills, particularly with FastAPI or Flask\n- Experience building RAG pipelines with LangChain or LlamaIndex\n- Vector databases (Pinecone, Weaviate, or ChromaDB)\n- LLM API integration (OpenAI, Anthropic, or Cohere)\n- SQL and data modeling for structured + unstructured data\n- Docker for containerized deployments\n- Must have: strong system design skills\n\nNice to have:\n- Experience with LangGraph or multi-agent systems\n- Kubernetes / cloud deployment (AWS/GCP)\n- Frontend experience (React/TypeScript)\n- Prior experience in legal tech or document processing",
+      "requirements": {
+        "title": "AI Engineer",
+        "company": "Unknown",
+        "must_have_skills": [
+          "Python",
+          "FastAPI",
+          "Flask",
+          "RAG pipelines",
+          "LangChain",
+          "LlamaIndex",
+          "Vector databases (Pinecone, Weaviate, ChromaDB)",
+          "LLM API integration (OpenAI, Anthropic, Cohere)",
+          "SQL",
+          "Data modeling",
+          "Docker",
+          "System design"
+        ],
+        "nice_to_have_skills": [
+          "LangGraph",
+          "Multi-agent systems",
+          "Kubernetes",
+          "AWS",
+          "GCP",
+          "React",
+          "TypeScript",
+          "Legal tech",
+          "Document processing"
+        ],
+        "years_experience": 5,
+        "responsibilities": [
+          "Build and maintain an AI-powered legal document review platform",
+          "Develop and manage RAG pipelines",
+          "Integrate LLM APIs into production systems",
+          "Design and implement containerized deployments using Docker",
+          "Perform SQL and data modeling for structured and unstructured data",
+          "Architect scalable systems using strong system design principles"
+        ]
+      },
+      "match_score": 4.2,
+      "matched_skills": [
+        "Python",
+        "Flask",
+        "SQL",
+        "Docker",
+        "AWS"
+      ],
+      "gaps": [
+        {
+          "skill": "FastAPI",
+          "severity": "critical",
+          "suggestion": "Build a REST API project using FastAPI by following the official FastAPI documentation and deploying a small AI-powered endpoint (e.g., a text classification service) to demonstrate proficiency."
+        },
+        {
+          "skill": "RAG pipelines",
+          "severity": "critical",
+          "suggestion": "Complete the 'Building RAG Applications' course on DeepLearning.AI and implement a end-to-end RAG pipeline project using a real document corpus, pushing the code to GitHub."
+        },
+        {
+          "skill": "LangChain",
+          "severity": "critical",
+          "suggestion": "Work through the LangChain documentation and build a conversational AI application (e.g., a document Q&A bot) using LangChain's chains and memory modules to gain hands-on experience."
+        },
+        {
+          "skill": "LlamaIndex",
+          "severity": "critical",
+          "suggestion": "Follow the official LlamaIndex tutorials and build a knowledge base application that indexes and queries a set of PDFs or web pages, showcasing it as a portfolio project."
+        },
+        {
+          "skill": "Vector databases (Pinecone, Weaviate, ChromaDB)",
+          "severity": "critical",
+          "suggestion": "Sign up for a free Pinecone or Weaviate account and complete their quickstart guides, then integrate one of these vector databases into a semantic search project to understand upsert, query, and filtering operations."
+        },
+        {
+          "skill": "LLM API integration (OpenAI, Anthropic, Cohere)",
+          "severity": "critical",
+          "suggestion": "Obtain API keys for OpenAI and Anthropic, then build a small side project (e.g., a prompt comparison tool) that integrates at least two LLM APIs to understand their SDKs, rate limits, and response handling."
+        },
+        {
+          "skill": "Data modeling",
+          "severity": "critical",
+          "suggestion": "Take the 'Data Modeling Essentials' course on Udemy or enroll in a dbt (data build tool) fundamentals course to learn relational and dimensional modeling techniques applicable to AI data pipelines."
+        },
+        {
+          "skill": "System design",
+          "severity": "critical",
+          "suggestion": "Study 'Designing Data-Intensive Applications' by Martin Kleppmann and practice system design on platforms like Excalidraw by sketching architectures for AI systems (e.g., a scalable LLM inference service)."
+        },
+        {
+          "skill": "LangGraph",
+          "severity": "nice-to-have",
+          "suggestion": "Read the official LangGraph documentation and build a stateful, multi-step agentic workflow (e.g., a research assistant with tool-calling loops) to understand graph-based agent orchestration."
+        },
+        {
+          "skill": "Multi-agent systems",
+          "severity": "nice-to-have",
+          "suggestion": "Take the 'Multi AI Agent Systems with CrewAI' course on DeepLearning.AI and implement a multi-agent project where agents collaborate on a task such as automated report generation."
+        },
+        {
+          "skill": "Kubernetes",
+          "severity": "nice-to-have",
+          "suggestion": "Earn the Certified Kubernetes Application Developer (CKAD) certification via the Linux Foundation and practice deploying containerized AI services on a local Minikube or cloud-based cluster."
+        },
+        {
+          "skill": "GCP",
+          "severity": "nice-to-have",
+          "suggestion": "Complete the 'Google Cloud Professional Machine Learning Engineer' certification path on Google Cloud Skills Boost, focusing on Vertex AI, Cloud Run, and GCP infrastructure for deploying AI models."
+        },
+        {
+          "skill": "React",
+          "severity": "nice-to-have",
+          "suggestion": "Take the 'React - The Complete Guide' course by Maximilian Schwarzm\u00fcller on Udemy and build a simple front-end dashboard that visualizes AI model outputs to solidify your React fundamentals."
+        },
+        {
+          "skill": "TypeScript",
+          "severity": "nice-to-have",
+          "suggestion": "Add TypeScript to your React learning by converting a JavaScript project to TypeScript, using the official TypeScript handbook and DefinitelyTyped to understand type safety in a real codebase."
+        },
+        {
+          "skill": "Legal tech",
+          "severity": "nice-to-have",
+          "suggestion": "Build domain knowledge by reading publicly available legal AI research (e.g., from Stanford CodeX) and completing a small project such as a legal document summarizer or clause extractor using an LLM."
+        },
+        {
+          "skill": "Document processing",
+          "severity": "nice-to-have",
+          "suggestion": "Practice document processing by building a pipeline that extracts, chunks, and structures text from PDFs using libraries like PyMuPDF or pdfplumber, combined with OCR tools like Tesseract for scanned documents."
+        }
+      ],
+      "cover_letter": "",
+      "error": null
+    }
+  },
+  {
+    "id": "2026-04-30T23:45:15.098997",
+    "date": "2026-04-30 23:45",
+    "company": "Unknown",
+    "title": "AI Engineer",
+    "score": 5.2,
+    "analysis": {
+      "job_text": "AI Engineer - Series B Startup (Remote)\n\nAbout: We're building an AI-powered legal document review platform.\n\nRequirements:\n- 5+ years of software engineering experience\n- Strong Python skills, particularly with FastAPI or Flask\n- Experience building RAG pipelines with LangChain or LlamaIndex\n- Vector databases (Pinecone, Weaviate, or ChromaDB)\n- LLM API integration (OpenAI, Anthropic, or Cohere)\n- SQL and data modeling for structured + unstructured data\n- Docker for containerized deployments\n- Must have: strong system design skills\n\nNice to have:\n- Experience with LangGraph or multi-agent systems\n- Kubernetes / cloud deployment (AWS/GCP)\n- Frontend experience (React/TypeScript)\n- Prior experience in legal tech or document processing\n",
+      "requirements": {
+        "title": "AI Engineer",
+        "company": "Unknown",
+        "must_have_skills": [
+          "Python (FastAPI or Flask)",
+          "RAG pipelines (LangChain or LlamaIndex)",
+          "Vector databases (Pinecone, Weaviate, or ChromaDB)",
+          "LLM API integration (OpenAI, Anthropic, or Cohere)",
+          "SQL and data modeling",
+          "Docker",
+          "System design"
+        ],
+        "nice_to_have_skills": [
+          "LangGraph or multi-agent systems",
+          "Kubernetes",
+          "Cloud deployment (AWS/GCP)",
+          "Frontend development (React/TypeScript)",
+          "Legal tech or document processing experience"
+        ],
+        "years_experience": 5,
+        "responsibilities": [
+          "Build and maintain an AI-powered legal document review platform",
+          "Develop RAG pipelines for document processing",
+          "Integrate LLM APIs into the platform",
+          "Design and manage SQL and unstructured data models",
+          "Containerize and deploy applications using Docker"
+        ]
+      },
+      "match_score": 5.2,
+      "matched_skills": [
+        "Python (FastAPI or Flask)",
+        "SQL and data modeling",
+        "Docker",
+        "LLM API integration (OpenAI, Anthropic, or Cohere)"
+      ],
+      "gaps": [
+        {
+          "skill": "RAG pipelines (LangChain or LlamaIndex)",
+          "severity": "critical",
+          "suggestion": "Build an end-to-end RAG application using LangChain or LlamaIndex \u2014 for example, a document Q&A chatbot over PDFs \u2014 and publish it on GitHub to demonstrate practical pipeline experience."
+        },
+        {
+          "skill": "Vector databases (Pinecone, Weaviate, or ChromaDB)",
+          "severity": "critical",
+          "suggestion": "Complete the official Pinecone quickstart tutorial and integrate it into a personal project, such as a semantic search engine over a custom dataset, to gain hands-on vector database experience."
+        },
+        {
+          "skill": "System design",
+          "severity": "critical",
+          "suggestion": "Study system design fundamentals using 'Designing Data-Intensive Applications' by Martin Kleppmann, then practice mock system design interviews on platforms like Exponent or Hello Interview, focusing on ML-serving architectures."
+        },
+        {
+          "skill": "LangGraph or multi-agent systems",
+          "severity": "nice-to-have",
+          "suggestion": "Work through the LangGraph documentation and build a multi-agent workflow \u2014 such as a research agent that delegates tasks to sub-agents \u2014 referencing Harrison Chase's LangGraph tutorials on YouTube for guided examples."
+        },
+        {
+          "skill": "Kubernetes",
+          "severity": "nice-to-have",
+          "suggestion": "Earn the Certified Kubernetes Application Developer (CKAD) certification via the Linux Foundation, using the 'Kubernetes for Developers' course on KodeKloud to prepare with hands-on labs."
+        },
+        {
+          "skill": "Cloud deployment (AWS/GCP)",
+          "severity": "nice-to-have",
+          "suggestion": "Deploy a machine learning model as a REST API on AWS using SageMaker or Lambda + API Gateway, following AWS's official 'ML on AWS' learning path to build verifiable cloud deployment experience."
+        },
+        {
+          "skill": "Frontend development (React/TypeScript)",
+          "severity": "nice-to-have",
+          "suggestion": "Take the 'React and TypeScript' course on Scrimba or Frontend Masters, then build a simple chat interface that connects to one of your existing AI/RAG backend projects to bridge your full-stack skills."
+        },
+        {
+          "skill": "Legal tech or document processing experience",
+          "severity": "nice-to-have",
+          "suggestion": "Seek out open-source legal tech projects on GitHub (e.g., Free Law Project or Docassemble) or build a document processing pipeline that extracts and summarizes clauses from contracts using spaCy or LlamaIndex to establish domain-relevant experience."
+        }
+      ],
+      "cover_letter": "",
+      "error": null
+    }
+  },
+  {
+    "id": "2026-04-30T23:24:14.658979",
+    "date": "2026-04-30 23:24",
+    "company": "Unknown",
+    "title": "AI Engineer",
+    "score": 4.5,
+    "analysis": {
+      "job_text": "AI Engineer - Series B Startup (Remote)\n\nAbout: We're building an AI-powered legal document review platform.\n\nRequirements:\n- 5+ years of software engineering experience\n- Strong Python skills, particularly with FastAPI or Flask\n- Experience building RAG pipelines with LangChain or LlamaIndex\n- Vector databases (Pinecone, Weaviate, or ChromaDB)\n- LLM API integration (OpenAI, Anthropic, or Cohere)\n- SQL and data modeling for structured + unstructured data\n- Docker for containerized deployments\n- Must have: strong system design skills\n\nNice to have:\n- Experience with LangGraph or multi-agent systems\n- Kubernetes / cloud deployment (AWS/GCP)\n- Frontend experience (React/TypeScript)\n- Prior experience in legal tech or document processing",
+      "requirements": {
+        "title": "AI Engineer",
+        "company": "Unknown",
+        "must_have_skills": [
+          "Python",
+          "FastAPI",
+          "Flask",
+          "RAG pipelines",
+          "LangChain",
+          "LlamaIndex",
+          "Vector databases (Pinecone, Weaviate, ChromaDB)",
+          "LLM API integration (OpenAI, Anthropic, Cohere)",
+          "SQL",
+          "Data modeling",
+          "Docker",
+          "System design"
+        ],
+        "nice_to_have_skills": [
+          "LangGraph",
+          "Multi-agent systems",
+          "Kubernetes",
+          "AWS",
+          "GCP",
+          "React",
+          "TypeScript",
+          "Legal tech",
+          "Document processing"
+        ],
+        "years_experience": 5,
+        "responsibilities": [
+          "Build and maintain an AI-powered legal document review platform",
+          "Develop and manage RAG pipelines",
+          "Integrate LLM APIs into production systems",
+          "Design and implement containerized deployments using Docker",
+          "Handle SQL and data modeling for structured and unstructured data"
+        ]
+      },
+      "match_score": 4.5,
+      "matched_skills": [
+        "Python",
+        "Flask",
+        "SQL",
+        "Docker",
+        "LLM API integration (OpenAI, Anthropic, Cohere)"
+      ],
+      "gaps": [
+        {
+          "skill": "FastAPI",
+          "severity": "critical",
+          "suggestion": "Build and deploy a REST API using FastAPI by following the official FastAPI documentation and completing a hands-on project such as creating a machine learning model-serving endpoint \u2014 this will give you practical experience with async Python APIs."
+        },
+        {
+          "skill": "RAG pipelines",
+          "severity": "critical",
+          "suggestion": "Implement a Retrieval-Augmented Generation (RAG) pipeline from scratch using a publicly available dataset; follow DeepLearning.AI's short course 'Building and Evaluating Advanced RAG' to understand chunking, retrieval, and generation stages."
+        },
+        {
+          "skill": "LangChain",
+          "severity": "critical",
+          "suggestion": "Complete the official LangChain documentation tutorials and build a real-world project such as a conversational document Q&A bot, leveraging LangChain's chains, memory, and tool-use abstractions."
+        },
+        {
+          "skill": "LlamaIndex",
+          "severity": "critical",
+          "suggestion": "Work through the LlamaIndex documentation and build a knowledge assistant over a set of PDFs or structured data, focusing on index construction, querying, and integrating with an LLM of your choice."
+        },
+        {
+          "skill": "Vector databases (Pinecone, Weaviate, ChromaDB)",
+          "severity": "critical",
+          "suggestion": "Sign up for a free tier on Pinecone or use ChromaDB locally and build a semantic search application; follow Pinecone's 'Learn' tutorials or the ChromaDB quickstart guide to understand vector storage, indexing, and similarity search."
+        },
+        {
+          "skill": "Data modeling",
+          "severity": "critical",
+          "suggestion": "Take the 'Data Modeling with MongoDB' or 'Fundamentals of Database Design' course on Coursera or LinkedIn Learning, and practice designing schemas for both relational and NoSQL systems relevant to AI applications."
+        },
+        {
+          "skill": "System design",
+          "severity": "critical",
+          "suggestion": "Study system design for AI/ML applications using resources like 'Designing Machine Learning Systems' by Chip Huyen, and practice by diagramming architectures for real-world AI products such as a RAG-based chatbot or a model inference platform."
+        },
+        {
+          "skill": "LangGraph",
+          "severity": "nice-to-have",
+          "suggestion": "Explore the LangGraph documentation and GitHub examples to build a stateful, multi-step agent workflow \u2014 start with their 'Introduction to LangGraph' tutorial and implement a simple agent that uses conditional branching."
+        },
+        {
+          "skill": "Multi-agent systems",
+          "severity": "nice-to-have",
+          "suggestion": "Build a multi-agent system using CrewAI or AutoGen, following their official quickstart guides to create a team of specialized agents that collaborate on a task such as research summarization or code generation."
+        },
+        {
+          "skill": "Kubernetes",
+          "severity": "nice-to-have",
+          "suggestion": "Earn the 'Kubernetes and Cloud Native Associate (KCNA)' certification from the Linux Foundation, and practice deploying a containerized AI API to a local Kubernetes cluster using Minikube or Kind."
+        },
+        {
+          "skill": "AWS",
+          "severity": "nice-to-have",
+          "suggestion": "Pursue the AWS Certified Machine Learning \u2013 Specialty certification, and supplement it with hands-on practice by deploying a model endpoint using Amazon SageMaker and integrating it with S3 and Lambda."
+        },
+        {
+          "skill": "GCP",
+          "severity": "nice-to-have",
+          "suggestion": "Complete the 'Professional Data Engineer' or 'Machine Learning Engineer' learning path on Google Cloud Skills Boost, and practice deploying an AI model using Vertex AI to gain practical GCP experience."
+        },
+        {
+          "skill": "React",
+          "severity": "nice-to-have",
+          "suggestion": "Follow the official React documentation ('react.dev') and build a simple front-end interface for one of your AI projects, such as a chat UI that calls your FastAPI backend \u2014 this will give you practical, portfolio-ready experience."
+        },
+        {
+          "skill": "TypeScript",
+          "severity": "nice-to-have",
+          "suggestion": "Complete the 'TypeScript for JavaScript Programmers' section of the official TypeScript handbook, then refactor one of your JavaScript/React projects to TypeScript to gain hands-on typing and interface design experience."
+        },
+        {
+          "skill": "Legal tech",
+          "severity": "nice-to-have",
+          "suggestion": "Research legal tech AI use cases by reading industry reports from LexisNexis or Thomson Reuters, and contribute to or build a small project involving legal document classification or contract analysis using open legal datasets like the CUAD dataset."
+        },
+        {
+          "skill": "Document processing",
+          "severity": "nice-to-have",
+          "suggestion": "Gain hands-on document processing experience by building a pipeline that extracts, parses, and structures text from PDFs using tools like PyMuPDF, pdfplumber, or AWS Textract \u2014 then feed the output into an LLM for summarization or classification."
+        }
+      ],
+      "cover_letter": "",
+      "error": null
+    }
+  }
+]
