@@ -18,6 +18,15 @@ _src = Path(__file__).resolve().parent.parent.parent
 if str(_src) not in sys.path:
     sys.path.insert(0, str(_src))
 
+# Load ANTHROPIC_API_KEY — local .env first, Streamlit Cloud secrets as fallback.
+from dotenv import load_dotenv
+load_dotenv()
+if not os.environ.get("ANTHROPIC_API_KEY"):
+    try:
+        os.environ["ANTHROPIC_API_KEY"] = st.secrets["general"]["ANTHROPIC_API_KEY"]
+    except (KeyError, FileNotFoundError):
+        pass
+
 from hireagent.agents import run_analysis
 from hireagent.rag.document_loader import load_and_chunk_pdf
 from hireagent.rag.pipeline import ingest_resume
